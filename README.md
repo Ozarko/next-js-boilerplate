@@ -4,11 +4,16 @@ Welcome to the Next.js Boilerplate! This project is designed to kickstart your N
 
 ## Features
 
-- **Next.js**: A React framework that enables server-side rendering and other advanced features for React applications.
-- **TypeScript**: A statically typed superset of JavaScript that enhances code quality and developer productivity.
-- **ESLint**: A pluggable linting utility for JavaScript and TypeScript to enforce code style and catch potential errors.
-- **Tailwind CSS**: A utility-first CSS framework for rapid UI development, enabling custom designs without leaving your HTML.
-- **Shadcn and Aceternity UI**: Custom component libraries providing a rich set of pre-built UI components to accelerate your development process.
+- **[Next.js](https://nextjs.org)**: A React framework that enables server-side rendering and other advanced features for React applications.
+- **[TypeScript](https://www.typescriptlang.org/)**: A statically typed superset of JavaScript that enhances code quality and developer productivity.
+- **[ESLint](https://eslint.org/)**: A pluggable linting utility for JavaScript and TypeScript to enforce code style and catch potential errors.
+- **[Tailwind CSS](https://tailwindcss.com/)**: A utility-first CSS framework for rapid UI development, enabling custom designs without leaving your HTML.
+
+## UI Component Libraries
+
+- **[Shadcn](https://ui.shadcn.com/)**: Custom component library providing a rich set of pre-built UI components to accelerate your development process.
+- **[Aceternity UI](https://ui.aceternity.com/)**: Another custom component library offering a diverse set of components, complementing Shadcn for a comprehensive UI toolkit. 
+
 
 ## Getting Started
 
@@ -56,9 +61,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the r
 
 ### Project Structure
 
-- `pages/`: Contains your Next.js pages.
-- `components/`: Houses reusable React components.
-- `styles/`: Stores global stylesheets and Tailwind CSS configuration.
+TODO
 
 ### Customization
 
