@@ -11,7 +11,7 @@ Welcome to the Next.js Boilerplate! This project is designed to kickstart your N
 
 ## Fonts
 
-- **[Fixel](https://fixel.macpaw.com/)**:: Utilizing the Fixel font for enhanced typography and visual appeal. 
+- **[Fixel](https://fixel.macpaw.com/)**: Utilizing the Fixel font for enhanced typography and visual appeal. 
 
 ## UI Component Libraries
 
