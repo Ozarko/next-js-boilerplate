@@ -9,6 +9,10 @@ Welcome to the Next.js Boilerplate! This project is designed to kickstart your N
 - **[ESLint](https://eslint.org/)**: A pluggable linting utility for JavaScript and TypeScript to enforce code style and catch potential errors.
 - **[Tailwind CSS](https://tailwindcss.com/)**: A utility-first CSS framework for rapid UI development, enabling custom designs without leaving your HTML.
 
+## Fonts
+
+- **[Fixel](https://fixel.macpaw.com/)**:: Utilizing the Fixel font for enhanced typography and visual appeal. 
+
 ## UI Component Libraries
 
 - **[Shadcn](https://ui.shadcn.com/)**: Custom component library providing a rich set of pre-built UI components to accelerate your development process.
